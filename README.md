@@ -11,3 +11,19 @@ This is a To-Do List App for
 
 ## :hammer: Frontend - React
 ### :wrench: Tech Stack
+- React
+- Axios
+- React Router DOM
+- Tailwind CSS
+- React Hook Form
+- Zod
+- Day.js
+- date-fns
+- Framer Motion
+- Iconify
+- react-colorful
+- react-responsive
+- react-swipeable
+- jwt-decode
+- Cloudinary
+- Vite
