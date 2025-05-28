@@ -9,5 +9,5 @@ This is a To-Do List App for
 
 ---
 
-### :hammer: Frontend - React
-# :wrench: Tech Stack
+# :hammer: Frontend - React
+### :wrench: Tech Stack
