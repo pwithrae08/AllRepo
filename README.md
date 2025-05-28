@@ -5,7 +5,7 @@ This is a To-Do List App for
 
 ## :rocket: Getting Started
 1. Clone the repository: bash git clone https://github.com/CSC105-2024/G08-TickTask.git cd G08-TickTask
----
+
 
 ## :hammer: Frontend - React
 ### :wrench: Tech Stack
@@ -49,7 +49,7 @@ This is a To-Do List App for
 - nodemailer
 - Zod
 
-### :electric_plug: API Endpoints
+## :electric_plug: API Endpoints
 Method	Endpoint	Description
 GET	/api/items	Fetch all items
 GET	/api/items/:id	Fetch a specific item by ID
@@ -58,7 +58,7 @@ PUT	/api/items/:id	Update an existing item by ID
 DELETE	/api/items/:id	Delete an item by ID
 Add, modify, or remove endpoints based on your project.
 
-### :rocket: Getting Started - Node.js Server
+## :rocket: Getting Started - Node.js Server
 
 1. Navigate to the backend directory: bash cd backend
 2. Install dependencies: bash npm install
